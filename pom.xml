@@ -8,6 +8,7 @@
 	<modules>
 		<module>hessian-service</module>
 		<module>hessian-client</module>
+		<module>spi-service</module>
 	</modules>
 	<packaging>pom</packaging>
 
