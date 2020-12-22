@@ -9,6 +9,7 @@
 		<module>hessian-service</module>
 		<module>hessian-client</module>
 		<module>spi-service</module>
+		<module>leetcode</module>
 	</modules>
 	<packaging>pom</packaging>
 
